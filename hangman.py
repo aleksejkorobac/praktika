@@ -11,8 +11,6 @@ guessedword = False
 tries = 6
 triesleft = 6
 
-trynumber = 0
-
 print("")
 print("Let's play a game of hangman. You have", tries,  "tries")
 
